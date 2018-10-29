@@ -1,4 +1,4 @@
 # hello-world
 Lets get started.
 
-I am Nik, a retired IT professional. I love developping apps. Have just started with IOS/Swift.
+I am Nik, a retired IT professional. I love developing apps. Have just started with IOS/Swift.
